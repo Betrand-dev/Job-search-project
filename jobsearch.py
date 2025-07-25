@@ -13,6 +13,7 @@ country = input("select country ( us , ca , ae ): ")
 endpoint_url = 'https://jsearch.p.rapidapi.com/search'
 
 # api_key
+# use your api key
 api_key = os.getenv('RAPIDAPI_JSEARCH_KEY')
 
 # the type of method using to collect data
