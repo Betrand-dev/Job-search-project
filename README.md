@@ -5,7 +5,7 @@ This is a basic python app that uses the Jsearch api to search for jobs by colle
  from the user and prints out all job posted
 online and thier job link relating to what the user is looking for.
 ## Get Started
-Get an API Key from
+Subscribe and get an API Key from
 ```
  https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch 
 ```
