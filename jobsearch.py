@@ -40,7 +40,7 @@ response = requests.request(method, endpoint_url , params=parameters , headers=h
 data = response.json()
 
 
-# using the while loop to loop through the response json to collect 5 available job
+# using the for loop to loop through the response json to collect the available job
 print(f"--- Showing Job Result For ' {criteria} ' location ' {country} ' ---\n")
 for job in data['data']:
     print(f"Job Title : {job['job_title']}\n")
