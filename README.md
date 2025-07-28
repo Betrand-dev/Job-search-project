@@ -12,7 +12,7 @@ Subscribe and get an API Key from
 ##  Installation 
 Clone project
 ```bash
-git clone https://github.com/codewithsadee/Job-search-project.git
+git clone https://github.com/Betrand-dev/Job-search-project.git
 ```
 Move to the clone directory
 ```bash
